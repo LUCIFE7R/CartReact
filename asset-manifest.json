@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LUCIFE7R.io/CartReact/static/css/main.f2aec811.css",
+    "main.js": "/LUCIFE7R.io/CartReact/static/js/main.54d79e82.js",
+    "index.html": "/LUCIFE7R.io/CartReact/index.html",
+    "main.f2aec811.css.map": "/LUCIFE7R.io/CartReact/static/css/main.f2aec811.css.map",
+    "main.54d79e82.js.map": "/LUCIFE7R.io/CartReact/static/js/main.54d79e82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2aec811.css",
+    "static/js/main.54d79e82.js"
+  ]
+}
